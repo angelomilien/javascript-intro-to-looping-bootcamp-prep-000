@@ -36,4 +36,4 @@ function doWhileLoop(num) {
       (incrementVariable() < num);
 } 
 
-doWhileLoop(100)
+doWhileLoop(1000)
