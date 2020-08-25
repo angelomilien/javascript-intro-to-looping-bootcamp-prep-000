@@ -37,4 +37,8 @@ function doWhileLoop(num) {
    return num
 }
 
+<<<<<<< HEAD
 
+=======
+doWhileLoop(0)
+>>>>>>> 22264e26b579a5921a5799becb23bc3a4c2fe2b4
