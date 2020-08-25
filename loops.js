@@ -37,4 +37,4 @@ function doWhileLoop(num) {
 } 
 
 
-doWhileLoop(i)
+doWhileLoop(i + 1)
